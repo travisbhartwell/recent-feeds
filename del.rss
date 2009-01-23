@@ -1,0 +1,1321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/">
+  <channel>
+    <title>Delicious/tag/git</title>
+    <link>http://delicious.com/tag/git</link>
+    <description>recent bookmarks tagged git</description>
+    <atom:link rel="self" type="application/rss+xml" href="http://feeds.delicious.com/v2/rss/tag/git?count=100"/>
+    <item>
+      <title>gittutorial(7)</title>
+      <pubDate>Thu, 22 Jan 2009 03:51:44 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/709eafd31f9d4136ee646e74d05986c4#delon</guid>
+      <link>http://www.kernel.org/pub/software/scm/git/docs/gittutorial.html</link>
+      <dc:creator><![CDATA[delon]]></dc:creator>
+      <comments>http://delicious.com/url/709eafd31f9d4136ee646e74d05986c4</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/709eafd31f9d4136ee646e74d05986c4</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/delon">delon's bookmarks</source>
+      <category domain="http://delicious.com/delon/">tools</category>
+      <category domain="http://delicious.com/delon/">tutorial</category>
+      <category domain="http://delicious.com/delon/">git</category>
+      <category domain="http://delicious.com/delon/">scm</category>
+    </item>
+    <item>
+      <title>git-merge(1)</title>
+      <pubDate>Thu, 22 Jan 2009 03:51:15 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/4a5c5b2f2a0ad4a00d9aafb371b4ce30#delon</guid>
+      <link>http://www.kernel.org/pub/software/scm/git/docs/git-merge.html</link>
+      <dc:creator><![CDATA[delon]]></dc:creator>
+      <comments>http://delicious.com/url/4a5c5b2f2a0ad4a00d9aafb371b4ce30</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/4a5c5b2f2a0ad4a00d9aafb371b4ce30</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/delon">delon's bookmarks</source>
+      <category domain="http://delicious.com/delon/">reference</category>
+      <category domain="http://delicious.com/delon/">git</category>
+      <category domain="http://delicious.com/delon/">scm</category>
+    </item>
+    <item>
+      <title>GIT-Home</title>
+      <pubDate>Thu, 22 Jan 2009 03:41:05 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/9f39877f262637cfce5c3a11a4a94b90#claytron</guid>
+      <link>http://git-home.chezwam.org/</link>
+      <dc:creator><![CDATA[claytron]]></dc:creator>
+      <comments>http://delicious.com/url/9f39877f262637cfce5c3a11a4a94b90</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/9f39877f262637cfce5c3a11a4a94b90</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/claytron">claytron's bookmarks</source>
+      <category domain="http://delicious.com/claytron/">git</category>
+      <category domain="http://delicious.com/claytron/">sysadmin</category>
+      <category domain="http://delicious.com/claytron/">homedir</category>
+    </item>
+    <item>
+      <title>Git for the Cocoa Developer: A Typical Workflow</title>
+      <pubDate>Thu, 22 Jan 2009 03:40:05 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/70f2930aeefad5acc800f2e021704259#chris_johnsen</guid>
+      <link>http://christopherroach.com/archives/35</link>
+      <dc:creator><![CDATA[chris_johnsen]]></dc:creator>
+      <comments>http://delicious.com/url/70f2930aeefad5acc800f2e021704259</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/70f2930aeefad5acc800f2e021704259</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/chris_johnsen">chris_johnsen's bookmarks</source>
+      <description>Some configuration and usage tips for using Git with XCode projects (not about using Git from XCode).</description>
+      <category domain="http://delicious.com/chris_johnsen/">Git</category>
+      <category domain="http://delicious.com/chris_johnsen/">XCode</category>
+      <category domain="http://delicious.com/chris_johnsen/">version-control</category>
+      <category domain="http://delicious.com/chris_johnsen/">configuration</category>
+      <category domain="http://delicious.com/chris_johnsen/">usage</category>
+      <category domain="http://delicious.com/chris_johnsen/">tip</category>
+      <category domain="http://delicious.com/chris_johnsen/">programming</category>
+      <category domain="http://delicious.com/chris_johnsen/">workflow</category>
+      <category domain="http://delicious.com/chris_johnsen/">SCM</category>
+      <category domain="http://delicious.com/chris_johnsen/">VCS</category>
+      <category domain="http://delicious.com/chris_johnsen/">DVCS</category>
+    </item>
+    <item>
+      <title>My Git Workflow</title>
+      <pubDate>Thu, 22 Jan 2009 03:39:25 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c#igfgt1</guid>
+      <link>http://gweezlebur.com/2009/01/19/my-git-workflow.html</link>
+      <dc:creator><![CDATA[igfgt1]]></dc:creator>
+      <comments>http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/cb33f47d0ba26e22de2df02f9baff34c</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/igfgt1">igfgt1's bookmarks</source>
+      <category domain="http://delicious.com/igfgt1/">scm</category>
+      <category domain="http://delicious.com/igfgt1/">git</category>
+      <category domain="http://delicious.com/igfgt1/">vcs</category>
+    </item>
+    <item>
+      <title>git ready " pushing and pulling</title>
+      <pubDate>Thu, 22 Jan 2009 03:36:42 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/1c2257b56f893dd1c3c20616cc3a4edb#demian0311</guid>
+      <link>http://gitready.com/2009/01/21/pushing-and-pulling.html</link>
+      <dc:creator><![CDATA[demian0311]]></dc:creator>
+      <comments>http://delicious.com/url/1c2257b56f893dd1c3c20616cc3a4edb</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/1c2257b56f893dd1c3c20616cc3a4edb</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/demian0311">demian0311's bookmarks</source>
+      <description>git ready » pushing and pulling</description>
+      <category domain="http://delicious.com/demian0311/">toread</category>
+      <category domain="http://delicious.com/demian0311/">git</category>
+    </item>
+    <item>
+      <title>My Git Workflow</title>
+      <pubDate>Thu, 22 Jan 2009 03:31:09 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c#badaboda</guid>
+      <link>http://gweezlebur.com/2009/01/19/my-git-workflow.html</link>
+      <dc:creator><![CDATA[badaboda]]></dc:creator>
+      <comments>http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/cb33f47d0ba26e22de2df02f9baff34c</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/badaboda">badaboda's bookmarks</source>
+      <category domain="http://delicious.com/badaboda/">git</category>
+    </item>
+    <item>
+      <title>Setting up a new remote git repository</title>
+      <pubDate>Thu, 22 Jan 2009 03:22:32 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/92ef1415d7549b593203df464951ae85#chrisbell</guid>
+      <link>http://toolmantim.com/articles/setting_up_a_new_remote_git_repository</link>
+      <dc:creator><![CDATA[chrisbell]]></dc:creator>
+      <comments>http://delicious.com/url/92ef1415d7549b593203df464951ae85</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/92ef1415d7549b593203df464951ae85</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/chrisbell">chrisbell's bookmarks</source>
+      <category domain="http://delicious.com/chrisbell/">git</category>
+    </item>
+    <item>
+      <title>My Git Workflow</title>
+      <pubDate>Thu, 22 Jan 2009 03:22:31 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c#prestonholmes</guid>
+      <link>http://gweezlebur.com/2009/01/19/my-git-workflow.html</link>
+      <dc:creator><![CDATA[prestonholmes]]></dc:creator>
+      <comments>http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/cb33f47d0ba26e22de2df02f9baff34c</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/prestonholmes">prestonholmes's bookmarks</source>
+      <category domain="http://delicious.com/prestonholmes/">git</category>
+      <category domain="http://delicious.com/prestonholmes/">howto</category>
+    </item>
+    <item>
+      <title>在Windows环境中使用版本管理工具Git - aideehorn - JavaEye技术网站</title>
+      <pubDate>Thu, 22 Jan 2009 03:22:22 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/48b26c967573905fd9e578b8a6a0b561#atu0830</guid>
+      <link>http://aideehorn.javaeye.com/blog/284797</link>
+      <dc:creator><![CDATA[atu0830]]></dc:creator>
+      <comments>http://delicious.com/url/48b26c967573905fd9e578b8a6a0b561</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/48b26c967573905fd9e578b8a6a0b561</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/atu0830">atu0830's bookmarks</source>
+      <category domain="http://delicious.com/atu0830/">git</category>
+    </item>
+    <item>
+      <title>vcs-load-dirs - WikiStart - Software.Complete.Org</title>
+      <pubDate>Thu, 22 Jan 2009 03:19:25 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/b9ea137713bb890c6fe73ea75de6d529#peter.shook</guid>
+      <link>http://software.complete.org/software/wiki/vcs-load-dirs/</link>
+      <dc:creator><![CDATA[peter.shook]]></dc:creator>
+      <comments>http://delicious.com/url/b9ea137713bb890c6fe73ea75de6d529</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/b9ea137713bb890c6fe73ea75de6d529</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/peter.shook">peter.shook's bookmarks</source>
+      <category domain="http://delicious.com/peter.shook/">scm</category>
+      <category domain="http://delicious.com/peter.shook/">import</category>
+      <category domain="http://delicious.com/peter.shook/">git</category>
+      <category domain="http://delicious.com/peter.shook/">tips</category>
+    </item>
+    <item>
+      <title>Version control: From svn to git - Jacob's Weblog</title>
+      <pubDate>Thu, 22 Jan 2009 03:18:18 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/9732ddac116223ab57e2b3078ad629fa#techniq</guid>
+      <link>http://www.emcken.dk/weblog/archives/211-Version-control-From-svn-to-git.html</link>
+      <dc:creator><![CDATA[techniq]]></dc:creator>
+      <comments>http://delicious.com/url/9732ddac116223ab57e2b3078ad629fa</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/9732ddac116223ab57e2b3078ad629fa</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/techniq">techniq's bookmarks</source>
+      <description>How to migrate from svn to git</description>
+      <category domain="http://delicious.com/techniq/">git</category>
+      <category domain="http://delicious.com/techniq/">svn</category>
+      <category domain="http://delicious.com/techniq/">tutorial</category>
+    </item>
+    <item>
+      <title>Tv's cobweb: Git for Computer Scientists</title>
+      <pubDate>Thu, 22 Jan 2009 03:18:02 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/9e41168d5414bf2f831d010bd654b20f#nruth</guid>
+      <link>http://eagain.net/articles/git-for-computer-scientists/</link>
+      <dc:creator><![CDATA[nruth]]></dc:creator>
+      <comments>http://delicious.com/url/9e41168d5414bf2f831d010bd654b20f</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/9e41168d5414bf2f831d010bd654b20f</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/nruth">nruth's bookmarks</source>
+      <category domain="http://delicious.com/nruth/">git</category>
+      <category domain="http://delicious.com/nruth/">versioncontrol</category>
+      <category domain="http://delicious.com/nruth/">theory</category>
+      <category domain="http://delicious.com/nruth/">design</category>
+      <category domain="http://delicious.com/nruth/">software</category>
+      <category domain="http://delicious.com/nruth/">reference</category>
+      <category domain="http://delicious.com/nruth/">development</category>
+      <category domain="http://delicious.com/nruth/">programming</category>
+    </item>
+    <item>
+      <title>My Git Workflow</title>
+      <pubDate>Thu, 22 Jan 2009 03:16:37 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c#samurai20000</guid>
+      <link>http://gweezlebur.com/2009/01/19/my-git-workflow.html</link>
+      <dc:creator><![CDATA[samurai20000]]></dc:creator>
+      <comments>http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/cb33f47d0ba26e22de2df02f9baff34c</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/samurai20000">samurai20000's bookmarks</source>
+      <category domain="http://delicious.com/samurai20000/">git</category>
+    </item>
+    <item>
+      <title>Find files in git repo over x megabytes, that don't exist in HEAD - Stack Overflow</title>
+      <pubDate>Thu, 22 Jan 2009 03:15:01 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/8661260f421a100dcca41b96e6fa2615#ivanhq</guid>
+      <link>http://stackoverflow.com/questions/298314/find-files-in-git-repo-over-x-megabytes-that-dont-exist-in-head</link>
+      <dc:creator><![CDATA[ivanhq]]></dc:creator>
+      <comments>http://delicious.com/url/8661260f421a100dcca41b96e6fa2615</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/8661260f421a100dcca41b96e6fa2615</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/ivanhq">ivanhq's bookmarks</source>
+      <category domain="http://delicious.com/ivanhq/">git</category>
+      <category domain="http://delicious.com/ivanhq/">git_magic</category>
+    </item>
+    <item>
+      <title>Forking, Continued — ones zeros majors and minors</title>
+      <pubDate>Thu, 22 Jan 2009 03:05:40 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/dadb7712cbaa980d98ec799c29b3aaad#kofno</guid>
+      <link>http://ozmm.org/posts/forking_continued.html</link>
+      <dc:creator><![CDATA[kofno]]></dc:creator>
+      <comments>http://delicious.com/url/dadb7712cbaa980d98ec799c29b3aaad</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/dadb7712cbaa980d98ec799c29b3aaad</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/kofno">kofno's bookmarks</source>
+      <description>ones zeros majors and minors: esoteric adventures in solipsism, by chris wanstrath</description>
+      <category domain="http://delicious.com/kofno/">tutorial</category>
+      <category domain="http://delicious.com/kofno/">howto</category>
+      <category domain="http://delicious.com/kofno/">git</category>
+      <category domain="http://delicious.com/kofno/">github</category>
+    </item>
+    <item>
+      <title>Tv's cobweb: Git for Computer Scientists</title>
+      <pubDate>Thu, 22 Jan 2009 03:04:01 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/9e41168d5414bf2f831d010bd654b20f#dangerousmind</guid>
+      <link>http://eagain.net/articles/git-for-computer-scientists/</link>
+      <dc:creator><![CDATA[dangerousmind]]></dc:creator>
+      <comments>http://delicious.com/url/9e41168d5414bf2f831d010bd654b20f</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/9e41168d5414bf2f831d010bd654b20f</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/dangerousmind">dangerousmind's bookmarks</source>
+      <category domain="http://delicious.com/dangerousmind/">git</category>
+      <category domain="http://delicious.com/dangerousmind/">vcs</category>
+      <category domain="http://delicious.com/dangerousmind/">development</category>
+      <category domain="http://delicious.com/dangerousmind/">flux</category>
+    </item>
+    <item>
+      <title>My Git Workflow</title>
+      <pubDate>Thu, 22 Jan 2009 03:03:31 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c#dangerousmind</guid>
+      <link>http://gweezlebur.com/2009/01/19/my-git-workflow.html</link>
+      <dc:creator><![CDATA[dangerousmind]]></dc:creator>
+      <comments>http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/cb33f47d0ba26e22de2df02f9baff34c</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/dangerousmind">dangerousmind's bookmarks</source>
+      <category domain="http://delicious.com/dangerousmind/">git</category>
+      <category domain="http://delicious.com/dangerousmind/">vcs</category>
+      <category domain="http://delicious.com/dangerousmind/">development</category>
+      <category domain="http://delicious.com/dangerousmind/">flux</category>
+    </item>
+    <item>
+      <title>Guitar Lessons On Demand</title>
+      <pubDate>Thu, 22 Jan 2009 03:02:11 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/965253cdd8369c0fa1b88b8cf716e8c7#stratmanrick</guid>
+      <link>https://www.shopondemand.tv/guitar/default.aspx</link>
+      <dc:creator><![CDATA[stratmanrick]]></dc:creator>
+      <comments>http://delicious.com/url/965253cdd8369c0fa1b88b8cf716e8c7</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/965253cdd8369c0fa1b88b8cf716e8c7</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/stratmanrick">stratmanrick's bookmarks</source>
+      <description>enter your site description here</description>
+      <category domain="http://delicious.com/stratmanrick/">git</category>
+    </item>
+    <item>
+      <title>A Gaggle Of Git Tips</title>
+      <pubDate>Thu, 22 Jan 2009 03:00:07 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/6b127f77b01d81862064aa8294181e5a#regeberg</guid>
+      <link>http://www.viget.com/extend/a-gaggle-of-git-tips/</link>
+      <dc:creator><![CDATA[regeberg]]></dc:creator>
+      <comments>http://delicious.com/url/6b127f77b01d81862064aa8294181e5a</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/6b127f77b01d81862064aa8294181e5a</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/regeberg">regeberg's bookmarks</source>
+      <category domain="http://delicious.com/regeberg/">git</category>
+      <category domain="http://delicious.com/regeberg/">tips</category>
+    </item>
+    <item>
+      <title>Hacker News | My Git Workflow</title>
+      <pubDate>Thu, 22 Jan 2009 02:49:01 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/d68e5fcd0e7a8f8e152568bdac78cc0d#michelson</guid>
+      <link>http://news.ycombinator.com/item?id=441670</link>
+      <dc:creator><![CDATA[michelson]]></dc:creator>
+      <comments>http://delicious.com/url/d68e5fcd0e7a8f8e152568bdac78cc0d</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/d68e5fcd0e7a8f8e152568bdac78cc0d</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/michelson">michelson's bookmarks</source>
+      <category domain="http://delicious.com/michelson/">git</category>
+    </item>
+    <item>
+      <title>分散バージョン管理Git/Mercurial/Bazaar徹底比較 (1/5) - @IT</title>
+      <pubDate>Thu, 22 Jan 2009 02:47:08 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/099a379f3f1b82ca21d4110f4747793b#lzcat</guid>
+      <link>http://www.atmarkit.co.jp/fjava/rensai4/devtool03/devtool03_1.html</link>
+      <dc:creator><![CDATA[lzcat]]></dc:creator>
+      <comments>http://delicious.com/url/099a379f3f1b82ca21d4110f4747793b</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/099a379f3f1b82ca21d4110f4747793b</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/lzcat">lzcat's bookmarks</source>
+      <category domain="http://delicious.com/lzcat/">review</category>
+      <category domain="http://delicious.com/lzcat/">git</category>
+      <category domain="http://delicious.com/lzcat/">scm</category>
+      <category domain="http://delicious.com/lzcat/">subversion</category>
+      <category domain="http://delicious.com/lzcat/">mercurial</category>
+      <category domain="http://delicious.com/lzcat/">vcs</category>
+      <category domain="http://delicious.com/lzcat/">bazaar</category>
+    </item>
+    <item>
+      <title>Forking, Continued — ones zeros majors and minors</title>
+      <pubDate>Thu, 22 Jan 2009 02:46:45 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/dadb7712cbaa980d98ec799c29b3aaad#dlkinney</guid>
+      <link>http://ozmm.org/posts/forking_continued.html</link>
+      <dc:creator><![CDATA[dlkinney]]></dc:creator>
+      <comments>http://delicious.com/url/dadb7712cbaa980d98ec799c29b3aaad</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/dadb7712cbaa980d98ec799c29b3aaad</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/dlkinney">dlkinney's bookmarks</source>
+      <description>An excellent walk-through of how to determine which gems to use when there are multiple forks on github.</description>
+      <category domain="http://delicious.com/dlkinney/">github</category>
+      <category domain="http://delicious.com/dlkinney/">git</category>
+      <category domain="http://delicious.com/dlkinney/">gem</category>
+      <category domain="http://delicious.com/dlkinney/">gems</category>
+      <category domain="http://delicious.com/dlkinney/">dvcs</category>
+      <category domain="http://delicious.com/dlkinney/">howto</category>
+      <category domain="http://delicious.com/dlkinney/">walkthrough</category>
+      <category domain="http://delicious.com/dlkinney/">tutorial</category>
+    </item>
+    <item>
+      <title>Tv's cobweb: Git for Computer Scientists</title>
+      <pubDate>Thu, 22 Jan 2009 02:44:54 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/9e41168d5414bf2f831d010bd654b20f#rancheir</guid>
+      <link>http://eagain.net/articles/git-for-computer-scientists/</link>
+      <dc:creator><![CDATA[rancheir]]></dc:creator>
+      <comments>http://delicious.com/url/9e41168d5414bf2f831d010bd654b20f</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/9e41168d5414bf2f831d010bd654b20f</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/rancheir">rancheir's bookmarks</source>
+      <category domain="http://delicious.com/rancheir/">git</category>
+      <category domain="http://delicious.com/rancheir/">tools</category>
+      <category domain="http://delicious.com/rancheir/">theory</category>
+    </item>
+    <item>
+      <title>My Git Workflow</title>
+      <pubDate>Thu, 22 Jan 2009 02:43:24 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c#rslawrence</guid>
+      <link>http://gweezlebur.com/2009/01/19/my-git-workflow.html</link>
+      <dc:creator><![CDATA[rslawrence]]></dc:creator>
+      <comments>http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/cb33f47d0ba26e22de2df02f9baff34c</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/rslawrence">rslawrence's bookmarks</source>
+      <category domain="http://delicious.com/rslawrence/">git</category>
+      <category domain="http://delicious.com/rslawrence/">github</category>
+      <category domain="http://delicious.com/rslawrence/">development</category>
+    </item>
+    <item>
+      <title>Git_Guide - SourceMage Wiki</title>
+      <pubDate>Thu, 22 Jan 2009 02:38:13 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/a3a802b18cdf3be1e4acae3de21d63d2#jacqui</guid>
+      <link>http://www.sourcemage.org/Git_Guide</link>
+      <dc:creator><![CDATA[jacqui]]></dc:creator>
+      <comments>http://delicious.com/url/a3a802b18cdf3be1e4acae3de21d63d2</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/a3a802b18cdf3be1e4acae3de21d63d2</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/jacqui">jacqui's bookmarks</source>
+      <description>remote</description>
+      <category domain="http://delicious.com/jacqui/">git</category>
+      <category domain="http://delicious.com/jacqui/">reference</category>
+    </item>
+    <item>
+      <title>My Git Workflow</title>
+      <pubDate>Thu, 22 Jan 2009 02:35:55 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c#rancheir</guid>
+      <link>http://gweezlebur.com/2009/01/19/my-git-workflow.html</link>
+      <dc:creator><![CDATA[rancheir]]></dc:creator>
+      <comments>http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/cb33f47d0ba26e22de2df02f9baff34c</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/rancheir">rancheir's bookmarks</source>
+      <category domain="http://delicious.com/rancheir/">git</category>
+      <category domain="http://delicious.com/rancheir/">svn</category>
+      <category domain="http://delicious.com/rancheir/">tutorials</category>
+    </item>
+    <item>
+      <title>GIT Prompt - there is a lot more than a branch-name</title>
+      <pubDate>Thu, 22 Jan 2009 02:35:10 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/5d47dfa0e8fe6af153c1a51b921a0202#peterba</guid>
+      <link>http://volnitsky.com/project/git-prompt/</link>
+      <dc:creator><![CDATA[peterba]]></dc:creator>
+      <comments>http://delicious.com/url/5d47dfa0e8fe6af153c1a51b921a0202</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/5d47dfa0e8fe6af153c1a51b921a0202</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/peterba">peterba's bookmarks</source>
+      <category domain="http://delicious.com/peterba/">git</category>
+    </item>
+    <item>
+      <title>$ cheat git</title>
+      <pubDate>Thu, 22 Jan 2009 02:34:03 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/4771f1b9d67fd34676699adb333c2588#rob.ares</guid>
+      <link>http://cheat.errtheblog.com/s/git</link>
+      <dc:creator><![CDATA[rob.ares]]></dc:creator>
+      <comments>http://delicious.com/url/4771f1b9d67fd34676699adb333c2588</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/4771f1b9d67fd34676699adb333c2588</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/rob.ares">rob.ares's bookmarks</source>
+      <description>autosetupmerge</description>
+      <category domain="http://delicious.com/rob.ares/">git</category>
+      <category domain="http://delicious.com/rob.ares/">cheat</category>
+    </item>
+    <item>
+      <title>A web-focused Git workflow</title>
+      <pubDate>Thu, 22 Jan 2009 02:24:17 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/94773ed51b502cb5502118722fa04ed7#tcelias</guid>
+      <link>http://joemaller.com/2008/11/25/a-web-focused-git-workflow/</link>
+      <dc:creator><![CDATA[tcelias]]></dc:creator>
+      <comments>http://delicious.com/url/94773ed51b502cb5502118722fa04ed7</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/94773ed51b502cb5502118722fa04ed7</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/tcelias">tcelias's bookmarks</source>
+      <category domain="http://delicious.com/tcelias/">versioncontrol</category>
+      <category domain="http://delicious.com/tcelias/">git</category>
+      <category domain="http://delicious.com/tcelias/">webdev</category>
+      <category domain="http://delicious.com/tcelias/">versioning</category>
+      <category domain="http://delicious.com/tcelias/">workflow</category>
+      <category domain="http://delicious.com/tcelias/">web-development</category>
+    </item>
+    <item>
+      <title>Git Community Book</title>
+      <pubDate>Thu, 22 Jan 2009 02:20:38 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/e15ae6f8fbd2ffcb7eb92027cb16707f#young.jiandong</guid>
+      <link>http://book.git-scm.com/</link>
+      <dc:creator><![CDATA[young.jiandong]]></dc:creator>
+      <comments>http://delicious.com/url/e15ae6f8fbd2ffcb7eb92027cb16707f</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/e15ae6f8fbd2ffcb7eb92027cb16707f</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/young.jiandong">young.jiandong's bookmarks</source>
+      <category domain="http://delicious.com/young.jiandong/">git</category>
+    </item>
+    <item>
+      <title>Cygwin里的Git_老王的技术手册</title>
+      <pubDate>Thu, 22 Jan 2009 02:20:32 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/b0ad2e152d1a9c36916153ee331d656f#young.jiandong</guid>
+      <link>http://hi.baidu.com/thinkinginlamp/blog/item/7c691f30bb62c79ea9018efb.html</link>
+      <dc:creator><![CDATA[young.jiandong]]></dc:creator>
+      <comments>http://delicious.com/url/b0ad2e152d1a9c36916153ee331d656f</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/b0ad2e152d1a9c36916153ee331d656f</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/young.jiandong">young.jiandong's bookmarks</source>
+      <category domain="http://delicious.com/young.jiandong/">git</category>
+    </item>
+    <item>
+      <title>My Git Workflow</title>
+      <pubDate>Thu, 22 Jan 2009 02:19:57 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c#kjhealy</guid>
+      <link>http://gweezlebur.com/2009/01/19/my-git-workflow.html</link>
+      <dc:creator><![CDATA[kjhealy]]></dc:creator>
+      <comments>http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/cb33f47d0ba26e22de2df02f9baff34c</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/kjhealy">kjhealy's bookmarks</source>
+      <category domain="http://delicious.com/kjhealy/">git</category>
+      <category domain="http://delicious.com/kjhealy/">tips</category>
+    </item>
+    <item>
+      <title>QGit</title>
+      <pubDate>Thu, 22 Jan 2009 02:14:31 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/310ac2812ef63587911c9238a9c7aacd#rgupta</guid>
+      <link>http://digilander.libero.it/mcostalba/</link>
+      <dc:creator><![CDATA[rgupta]]></dc:creator>
+      <comments>http://delicious.com/url/310ac2812ef63587911c9238a9c7aacd</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/310ac2812ef63587911c9238a9c7aacd</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/rgupta">rgupta's bookmarks</source>
+      <category domain="http://delicious.com/rgupta/">tools</category>
+      <category domain="http://delicious.com/rgupta/">programming</category>
+      <category domain="http://delicious.com/rgupta/">git</category>
+    </item>
+    <item>
+      <title>Google Open Source Blog: Develop with Git on a Google Code Project</title>
+      <pubDate>Thu, 22 Jan 2009 02:14:12 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/748b757f5ee38aaddb0df13b09cb51db#wikisite</guid>
+      <link>http://google-opensource.blogspot.com/2008/05/develop-with-git-on-google-code-project.html</link>
+      <dc:creator><![CDATA[wikisite]]></dc:creator>
+      <comments>http://delicious.com/url/748b757f5ee38aaddb0df13b09cb51db</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/748b757f5ee38aaddb0df13b09cb51db</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/wikisite">wikisite's bookmarks</source>
+      <category domain="http://delicious.com/wikisite/">code</category>
+      <category domain="http://delicious.com/wikisite/">google</category>
+      <category domain="http://delicious.com/wikisite/">git</category>
+    </item>
+    <item>
+      <title>My Git Workflow</title>
+      <pubDate>Thu, 22 Jan 2009 02:12:09 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c#straup</guid>
+      <link>http://gweezlebur.com/2009/01/19/my-git-workflow.html</link>
+      <dc:creator><![CDATA[straup]]></dc:creator>
+      <comments>http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/cb33f47d0ba26e22de2df02f9baff34c</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/straup">straup's bookmarks</source>
+      <description>no time for git, right now, but probably useful if I ever get around to it...</description>
+      <category domain="http://delicious.com/straup/">git</category>
+      <category domain="http://delicious.com/straup/">reference</category>
+    </item>
+    <item>
+      <title>Git - Fast Version Control System</title>
+      <pubDate>Thu, 22 Jan 2009 02:12:00 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/6a39c5566c81cc96bb39199ca0470695#rikcat</guid>
+      <link>http://git-scm.com/</link>
+      <dc:creator><![CDATA[rikcat]]></dc:creator>
+      <comments>http://delicious.com/url/6a39c5566c81cc96bb39199ca0470695</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/6a39c5566c81cc96bb39199ca0470695</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/rikcat">rikcat's bookmarks</source>
+      <category domain="http://delicious.com/rikcat/">version_control</category>
+      <category domain="http://delicious.com/rikcat/">git</category>
+      <category domain="http://delicious.com/rikcat/">versioncontrol</category>
+    </item>
+    <item>
+      <title>Planet Git</title>
+      <pubDate>Thu, 22 Jan 2009 02:10:56 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/bc39a0498dcab12a2143b6d16c83fb2d#pkufranky</guid>
+      <link>http://planetgit.org/</link>
+      <dc:creator><![CDATA[pkufranky]]></dc:creator>
+      <comments>http://delicious.com/url/bc39a0498dcab12a2143b6d16c83fb2d</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/bc39a0498dcab12a2143b6d16c83fb2d</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/pkufranky">pkufranky's bookmarks</source>
+      <category domain="http://delicious.com/pkufranky/">git</category>
+    </item>
+    <item>
+      <title>removing .DS_Store files from a git checkout - Bash - Snipplr</title>
+      <pubDate>Thu, 22 Jan 2009 02:10:46 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/aeca76705a69adde92d6d98726d92690#bazil749</guid>
+      <link>http://snipplr.com/view/5206/removing-dsstore-files-from-a-git-checkout/</link>
+      <dc:creator><![CDATA[bazil749]]></dc:creator>
+      <comments>http://delicious.com/url/aeca76705a69adde92d6d98726d92690</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/aeca76705a69adde92d6d98726d92690</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/bazil749">bazil749's bookmarks</source>
+      <category domain="http://delicious.com/bazil749/">osx</category>
+      <category domain="http://delicious.com/bazil749/">git</category>
+      <category domain="http://delicious.com/bazil749/">gitignore</category>
+      <category domain="http://delicious.com/bazil749/">ds_store</category>
+    </item>
+    <item>
+      <title>Setting up a new Rails app with Git</title>
+      <pubDate>Thu, 22 Jan 2009 02:10:21 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/e88882aba8826360a43123d0cc220b68#bazil749</guid>
+      <link>http://toolmantim.com/articles/setting_up_a_new_rails_app_with_git</link>
+      <dc:creator><![CDATA[bazil749]]></dc:creator>
+      <comments>http://delicious.com/url/e88882aba8826360a43123d0cc220b68</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/e88882aba8826360a43123d0cc220b68</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/bazil749">bazil749's bookmarks</source>
+      <category domain="http://delicious.com/bazil749/">git</category>
+      <category domain="http://delicious.com/bazil749/">gitignore</category>
+    </item>
+    <item>
+      <title>Git - SVN Crash Course(in Japanese)</title>
+      <pubDate>Thu, 22 Jan 2009 02:08:52 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/0de9c68df38d9223ee84990e6563defe#yaa1701</guid>
+      <link>http://www.tempus.org/n-miyo/git-course-trans-ja/svn.ja.html</link>
+      <dc:creator><![CDATA[yaa1701]]></dc:creator>
+      <comments>http://delicious.com/url/0de9c68df38d9223ee84990e6563defe</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/0de9c68df38d9223ee84990e6563defe</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/yaa1701">yaa1701's bookmarks</source>
+      <category domain="http://delicious.com/yaa1701/">git</category>
+    </item>
+    <item>
+      <title>git track is where it's at</title>
+      <pubDate>Thu, 22 Jan 2009 02:04:32 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/fbc758e6a746f421d2356e688b1b8262#rob.ares</guid>
+      <link>http://hoth.entp.com/2009/1/21/git-track-is-where-its-at</link>
+      <dc:creator><![CDATA[rob.ares]]></dc:creator>
+      <comments>http://delicious.com/url/fbc758e6a746f421d2356e688b1b8262</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/fbc758e6a746f421d2356e688b1b8262</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/rob.ares">rob.ares's bookmarks</source>
+      <description>Git remote tracking.</description>
+      <category domain="http://delicious.com/rob.ares/">git</category>
+      <category domain="http://delicious.com/rob.ares/">track</category>
+      <category domain="http://delicious.com/rob.ares/">remotes</category>
+    </item>
+    <item>
+      <title>MICHAEL IVEY - My Git Workflow</title>
+      <pubDate>Thu, 22 Jan 2009 01:56:17 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c#secondgear</guid>
+      <link>http://gweezlebur.com/2009/01/19/my-git-workflow.html</link>
+      <dc:creator><![CDATA[secondgear]]></dc:creator>
+      <comments>http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/cb33f47d0ba26e22de2df02f9baff34c</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/secondgear">secondgear's bookmarks</source>
+      <category domain="http://delicious.com/secondgear/">git</category>
+      <category domain="http://delicious.com/secondgear/">workflow</category>
+    </item>
+    <item>
+      <title>My Git Workflow</title>
+      <pubDate>Thu, 22 Jan 2009 01:52:02 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c#rapps</guid>
+      <link>http://gweezlebur.com/2009/01/19/my-git-workflow.html</link>
+      <dc:creator><![CDATA[rapps]]></dc:creator>
+      <comments>http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/cb33f47d0ba26e22de2df02f9baff34c</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/rapps">rapps's bookmarks</source>
+      <category domain="http://delicious.com/rapps/">programming</category>
+      <category domain="http://delicious.com/rapps/">tutorial</category>
+      <category domain="http://delicious.com/rapps/">scm</category>
+      <category domain="http://delicious.com/rapps/">git</category>
+      <category domain="http://delicious.com/rapps/">workflow</category>
+    </item>
+    <item>
+      <title>Configure git to globally ignore some files @ Technical Pickles</title>
+      <pubDate>Thu, 22 Jan 2009 01:40:53 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/a833299c0b8323955424c4cd313eeb59#kokstitan</guid>
+      <link>http://technicalpickles.com/posts/configure-git-to-globally-ignore-some-files</link>
+      <dc:creator><![CDATA[kokstitan]]></dc:creator>
+      <comments>http://delicious.com/url/a833299c0b8323955424c4cd313eeb59</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/a833299c0b8323955424c4cd313eeb59</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/kokstitan">kokstitan's bookmarks</source>
+      <category domain="http://delicious.com/kokstitan/">git</category>
+      <category domain="http://delicious.com/kokstitan/">gitignore</category>
+    </item>
+    <item>
+      <title>msysgit - Google Code</title>
+      <pubDate>Thu, 22 Jan 2009 01:37:21 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/b6bb4ac3ba1c09284d29eaa8ea5d4bf4#bazil749</guid>
+      <link>http://code.google.com/p/msysgit/</link>
+      <dc:creator><![CDATA[bazil749]]></dc:creator>
+      <comments>http://delicious.com/url/b6bb4ac3ba1c09284d29eaa8ea5d4bf4</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/b6bb4ac3ba1c09284d29eaa8ea5d4bf4</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/bazil749">bazil749's bookmarks</source>
+      <category domain="http://delicious.com/bazil749/">windows</category>
+      <category domain="http://delicious.com/bazil749/">tool</category>
+      <category domain="http://delicious.com/bazil749/">git</category>
+      <category domain="http://delicious.com/bazil749/">versioncontrol</category>
+    </item>
+    <item>
+      <title>tortoisegit - Google Code</title>
+      <pubDate>Thu, 22 Jan 2009 01:37:05 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/49a1be916db4ee0f1d482268144fdd4c#bazil749</guid>
+      <link>http://code.google.com/p/tortoisegit/</link>
+      <dc:creator><![CDATA[bazil749]]></dc:creator>
+      <comments>http://delicious.com/url/49a1be916db4ee0f1d482268144fdd4c</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/49a1be916db4ee0f1d482268144fdd4c</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/bazil749">bazil749's bookmarks</source>
+      <category domain="http://delicious.com/bazil749/">git</category>
+      <category domain="http://delicious.com/bazil749/">tortoisegit</category>
+      <category domain="http://delicious.com/bazil749/">tortoise</category>
+    </item>
+    <item>
+      <title>My Git Workflow</title>
+      <pubDate>Thu, 22 Jan 2009 01:26:59 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c#nieder1</guid>
+      <link>http://gweezlebur.com/2009/01/19/my-git-workflow.html</link>
+      <dc:creator><![CDATA[nieder1]]></dc:creator>
+      <comments>http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/cb33f47d0ba26e22de2df02f9baff34c</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/nieder1">nieder1's bookmarks</source>
+      <category domain="http://delicious.com/nieder1/">git</category>
+    </item>
+    <item>
+      <title>entp hoth blog git track is where it's at</title>
+      <pubDate>Thu, 22 Jan 2009 01:23:27 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/fbc758e6a746f421d2356e688b1b8262#szich</guid>
+      <link>http://hoth.entp.com/2009/1/21/git-track-is-where-its-at</link>
+      <dc:creator><![CDATA[szich]]></dc:creator>
+      <comments>http://delicious.com/url/fbc758e6a746f421d2356e688b1b8262</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/fbc758e6a746f421d2356e688b1b8262</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/szich">szich's bookmarks</source>
+      <category domain="http://delicious.com/szich/">git</category>
+    </item>
+    <item>
+      <title>My Git Workflow</title>
+      <pubDate>Thu, 22 Jan 2009 01:20:09 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c#huitseeker</guid>
+      <link>http://gweezlebur.com/2009/01/19/my-git-workflow.html</link>
+      <dc:creator><![CDATA[huitseeker]]></dc:creator>
+      <comments>http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/cb33f47d0ba26e22de2df02f9baff34c</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/huitseeker">huitseeker's bookmarks</source>
+      <category domain="http://delicious.com/huitseeker/">git</category>
+      <category domain="http://delicious.com/huitseeker/">example</category>
+      <category domain="http://delicious.com/huitseeker/">blog</category>
+      <category domain="http://delicious.com/huitseeker/">workflow</category>
+    </item>
+    <item>
+      <title>Welcome to GitCasts</title>
+      <pubDate>Thu, 22 Jan 2009 01:16:42 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/4d6fa8f3a8f81649edfdb6c264376485#kbandoh</guid>
+      <link>http://gitcasts.com/</link>
+      <dc:creator><![CDATA[kbandoh]]></dc:creator>
+      <comments>http://delicious.com/url/4d6fa8f3a8f81649edfdb6c264376485</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/4d6fa8f3a8f81649edfdb6c264376485</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/kbandoh">kbandoh's bookmarks</source>
+      <category domain="http://delicious.com/kbandoh/">git</category>
+    </item>
+    <item>
+      <title>My Git Workflow</title>
+      <pubDate>Thu, 22 Jan 2009 01:16:11 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c#gtuhl</guid>
+      <link>http://gweezlebur.com/2009/01/19/my-git-workflow.html</link>
+      <dc:creator><![CDATA[gtuhl]]></dc:creator>
+      <comments>http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/cb33f47d0ba26e22de2df02f9baff34c</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/gtuhl">gtuhl's bookmarks</source>
+      <category domain="http://delicious.com/gtuhl/">svn</category>
+      <category domain="http://delicious.com/gtuhl/">git</category>
+    </item>
+    <item>
+      <title>Everyday GIT With 20 Commands Or So</title>
+      <pubDate>Thu, 22 Jan 2009 01:08:41 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/fd87bd467f725ee4599dd3ae2d7d40dd#danielneis</guid>
+      <link>http://www.kernel.org/pub/software/scm/git/docs/everyday.html</link>
+      <dc:creator><![CDATA[danielneis]]></dc:creator>
+      <comments>http://delicious.com/url/fd87bd467f725ee4599dd3ae2d7d40dd</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/fd87bd467f725ee4599dd3ae2d7d40dd</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/danielneis">danielneis's bookmarks</source>
+      <category domain="http://delicious.com/danielneis/">reference</category>
+      <category domain="http://delicious.com/danielneis/">git</category>
+    </item>
+    <item>
+      <title>Everyday GIT With 20 Commands Or So</title>
+      <pubDate>Thu, 22 Jan 2009 01:05:58 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/fd87bd467f725ee4599dd3ae2d7d40dd#justinpalmer</guid>
+      <link>http://www.kernel.org/pub/software/scm/git/docs/everyday.html</link>
+      <dc:creator><![CDATA[justinpalmer]]></dc:creator>
+      <comments>http://delicious.com/url/fd87bd467f725ee4599dd3ae2d7d40dd</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/fd87bd467f725ee4599dd3ae2d7d40dd</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/justinpalmer">justinpalmer's bookmarks</source>
+      <category domain="http://delicious.com/justinpalmer/">git</category>
+    </item>
+    <item>
+      <title>A web-focused Git workflow</title>
+      <pubDate>Thu, 22 Jan 2009 01:05:07 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/94773ed51b502cb5502118722fa04ed7#inkyharmonics</guid>
+      <link>http://joemaller.com/2008/11/25/a-web-focused-git-workflow/</link>
+      <dc:creator><![CDATA[inkyharmonics]]></dc:creator>
+      <comments>http://delicious.com/url/94773ed51b502cb5502118722fa04ed7</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/94773ed51b502cb5502118722fa04ed7</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/inkyharmonics">inkyharmonics's bookmarks</source>
+      <description>Post on using two git repo&amp;#039;s to push stages into production</description>
+      <category domain="http://delicious.com/inkyharmonics/">programming</category>
+      <category domain="http://delicious.com/inkyharmonics/">development</category>
+      <category domain="http://delicious.com/inkyharmonics/">git</category>
+      <category domain="http://delicious.com/inkyharmonics/">versioning</category>
+      <category domain="http://delicious.com/inkyharmonics/">deployment</category>
+      <category domain="http://delicious.com/inkyharmonics/">workflow</category>
+    </item>
+    <item>
+      <title>EclipsePlugin - GitWiki</title>
+      <pubDate>Thu, 22 Jan 2009 00:57:42 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/67befb799dc106ec454116701053569c#odracir.jr</guid>
+      <link>http://git.or.cz/gitwiki/EclipsePlugin</link>
+      <dc:creator><![CDATA[odracir.jr]]></dc:creator>
+      <comments>http://delicious.com/url/67befb799dc106ec454116701053569c</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/67befb799dc106ec454116701053569c</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/odracir.jr">odracir.jr's bookmarks</source>
+      <category domain="http://delicious.com/odracir.jr/">eclipse</category>
+      <category domain="http://delicious.com/odracir.jr/">git</category>
+    </item>
+    <item>
+      <title>Git SVN Workflow</title>
+      <pubDate>Thu, 22 Jan 2009 00:54:24 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/04c52bb63173a24cfc0afcd19ecbdddc#joydivider</guid>
+      <link>http://andy.delcambre.com/2008/03/04/git-svn-workflow.html</link>
+      <dc:creator><![CDATA[joydivider]]></dc:creator>
+      <comments>http://delicious.com/url/04c52bb63173a24cfc0afcd19ecbdddc</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/04c52bb63173a24cfc0afcd19ecbdddc</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/joydivider">joydivider's bookmarks</source>
+      <category domain="http://delicious.com/joydivider/">git</category>
+      <category domain="http://delicious.com/joydivider/">svn</category>
+      <category domain="http://delicious.com/joydivider/">gitsvn</category>
+    </item>
+    <item>
+      <title>Getting Started with Git and GitHub on Windows - Kyle Cordes</title>
+      <pubDate>Thu, 22 Jan 2009 00:53:51 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/ac9f92b9058ec6b3fd82ca266c94ffdc#jmanoto</guid>
+      <link>http://kylecordes.com/2008/04/30/git-windows-go/</link>
+      <dc:creator><![CDATA[jmanoto]]></dc:creator>
+      <comments>http://delicious.com/url/ac9f92b9058ec6b3fd82ca266c94ffdc</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/ac9f92b9058ec6b3fd82ca266c94ffdc</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/jmanoto">jmanoto's bookmarks</source>
+      <category domain="http://delicious.com/jmanoto/">git</category>
+      <category domain="http://delicious.com/jmanoto/">versioncontrol</category>
+    </item>
+    <item>
+      <title>Robby on Rails : git-svn is a gateway drug</title>
+      <pubDate>Thu, 22 Jan 2009 00:53:14 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/1d12a0d6991381b2000a5bdf337d4319#joydivider</guid>
+      <link>http://www.robbyonrails.com/articles/2008/04/10/git-svn-is-a-gateway-drug</link>
+      <dc:creator><![CDATA[joydivider]]></dc:creator>
+      <comments>http://delicious.com/url/1d12a0d6991381b2000a5bdf337d4319</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/1d12a0d6991381b2000a5bdf337d4319</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/joydivider">joydivider's bookmarks</source>
+      <category domain="http://delicious.com/joydivider/">git</category>
+      <category domain="http://delicious.com/joydivider/">svn</category>
+      <category domain="http://delicious.com/joydivider/">gitsvn</category>
+    </item>
+    <item>
+      <title>Howto use Git and svn together | Flavio Castelli</title>
+      <pubDate>Thu, 22 Jan 2009 00:52:46 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/7f33899de801a3e94bfbe661c75eb726#joydivider</guid>
+      <link>http://flavio.castelli.name/howto_use_git_with_svn</link>
+      <dc:creator><![CDATA[joydivider]]></dc:creator>
+      <comments>http://delicious.com/url/7f33899de801a3e94bfbe661c75eb726</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/7f33899de801a3e94bfbe661c75eb726</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/joydivider">joydivider's bookmarks</source>
+      <category domain="http://delicious.com/joydivider/">git</category>
+      <category domain="http://delicious.com/joydivider/">svn</category>
+      <category domain="http://delicious.com/joydivider/">gitsvn</category>
+    </item>
+    <item>
+      <title>Tsuna's blog: Learning git-svn in 5min</title>
+      <pubDate>Thu, 22 Jan 2009 00:51:59 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/5783a41109766afeac273e1761917e80#joydivider</guid>
+      <link>http://tsunanet.blogspot.com/2007/07/learning-git-svn-in-5min.html</link>
+      <dc:creator><![CDATA[joydivider]]></dc:creator>
+      <comments>http://delicious.com/url/5783a41109766afeac273e1761917e80</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/5783a41109766afeac273e1761917e80</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/joydivider">joydivider's bookmarks</source>
+      <category domain="http://delicious.com/joydivider/">git</category>
+      <category domain="http://delicious.com/joydivider/">svn</category>
+      <category domain="http://delicious.com/joydivider/">gitsvn</category>
+    </item>
+    <item>
+      <title>git ready " pushing and pulling</title>
+      <pubDate>Thu, 22 Jan 2009 00:45:56 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/1c2257b56f893dd1c3c20616cc3a4edb#mattn.jp</guid>
+      <link>http://gitready.com/2009/01/21/pushing-and-pulling.html</link>
+      <dc:creator><![CDATA[mattn.jp]]></dc:creator>
+      <comments>http://delicious.com/url/1c2257b56f893dd1c3c20616cc3a4edb</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/1c2257b56f893dd1c3c20616cc3a4edb</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/mattn.jp">mattn.jp's bookmarks</source>
+      <category domain="http://delicious.com/mattn.jp/">git</category>
+    </item>
+    <item>
+      <title>Tv's cobweb: Git for Computer Scientists</title>
+      <pubDate>Thu, 22 Jan 2009 00:44:30 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/9e41168d5414bf2f831d010bd654b20f#abiczo</guid>
+      <link>http://eagain.net/articles/git-for-computer-scientists/</link>
+      <dc:creator><![CDATA[abiczo]]></dc:creator>
+      <comments>http://delicious.com/url/9e41168d5414bf2f831d010bd654b20f</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/9e41168d5414bf2f831d010bd654b20f</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/abiczo">abiczo's bookmarks</source>
+      <category domain="http://delicious.com/abiczo/">git</category>
+      <category domain="http://delicious.com/abiczo/">versioncontrol</category>
+    </item>
+    <item>
+      <title>GIT Prompt - there is a lot more than a branch-name</title>
+      <pubDate>Thu, 22 Jan 2009 00:37:03 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/5d47dfa0e8fe6af153c1a51b921a0202#ajtaylor</guid>
+      <link>http://volnitsky.com/project/git-prompt/</link>
+      <dc:creator><![CDATA[ajtaylor]]></dc:creator>
+      <comments>http://delicious.com/url/5d47dfa0e8fe6af153c1a51b921a0202</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/5d47dfa0e8fe6af153c1a51b921a0202</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/ajtaylor">ajtaylor's bookmarks</source>
+      <category domain="http://delicious.com/ajtaylor/">bash</category>
+      <category domain="http://delicious.com/ajtaylor/">shell</category>
+      <category domain="http://delicious.com/ajtaylor/">git</category>
+    </item>
+    <item>
+      <title>My Git Workflow</title>
+      <pubDate>Thu, 22 Jan 2009 00:35:48 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c#sco_t</guid>
+      <link>http://gweezlebur.com/2009/01/19/my-git-workflow.html</link>
+      <dc:creator><![CDATA[sco_t]]></dc:creator>
+      <comments>http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/cb33f47d0ba26e22de2df02f9baff34c</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/sco_t">sco_t's bookmarks</source>
+      <category domain="http://delicious.com/sco_t/">tutorial</category>
+      <category domain="http://delicious.com/sco_t/">svn</category>
+      <category domain="http://delicious.com/sco_t/">control</category>
+      <category domain="http://delicious.com/sco_t/">source</category>
+      <category domain="http://delicious.com/sco_t/">git</category>
+    </item>
+    <item>
+      <title>bogolisk's egg at master - GitHub</title>
+      <pubDate>Thu, 22 Jan 2009 00:30:40 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/2d3c1805977a2768a75b555a6e5009fd#can.axis</guid>
+      <link>http://github.com/bogolisk/egg/</link>
+      <dc:creator><![CDATA[can.axis]]></dc:creator>
+      <comments>http://delicious.com/url/2d3c1805977a2768a75b555a6e5009fd</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/2d3c1805977a2768a75b555a6e5009fd</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/can.axis">can.axis's bookmarks</source>
+      <description>Emacs Got Git. This is a clone of Marius&amp;#039;s excellent magit. Egg is an emacs interface to git.</description>
+      <category domain="http://delicious.com/can.axis/">egg</category>
+      <category domain="http://delicious.com/can.axis/">emacs</category>
+      <category domain="http://delicious.com/can.axis/">git</category>
+      <category domain="http://delicious.com/can.axis/">magit</category>
+    </item>
+    <item>
+      <title>OGRE Git Tutorial - excess.org</title>
+      <pubDate>Thu, 22 Jan 2009 00:22:05 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/bdf4a3f4e231c1d361a00c04671d425e#ajtaylor</guid>
+      <link>http://excess.org/article/2008/07/ogre-git-tutorial/</link>
+      <dc:creator><![CDATA[ajtaylor]]></dc:creator>
+      <comments>http://delicious.com/url/bdf4a3f4e231c1d361a00c04671d425e</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/bdf4a3f4e231c1d361a00c04671d425e</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/ajtaylor">ajtaylor's bookmarks</source>
+      <category domain="http://delicious.com/ajtaylor/">tutorial</category>
+      <category domain="http://delicious.com/ajtaylor/">video</category>
+      <category domain="http://delicious.com/ajtaylor/">git</category>
+    </item>
+    <item>
+      <title>Git Manual</title>
+      <pubDate>Thu, 22 Jan 2009 00:10:18 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/8b7d088fd6eadc232097b1429e9acc11#angantyr</guid>
+      <link>http://www.scribd.com/doc/2594681/Git-Manual</link>
+      <dc:creator><![CDATA[angantyr]]></dc:creator>
+      <comments>http://delicious.com/url/8b7d088fd6eadc232097b1429e9acc11</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/8b7d088fd6eadc232097b1429e9acc11</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/angantyr">angantyr's bookmarks</source>
+      <category domain="http://delicious.com/angantyr/">reference</category>
+      <category domain="http://delicious.com/angantyr/">git</category>
+    </item>
+    <item>
+      <title>Git Magic - Preface</title>
+      <pubDate>Thu, 22 Jan 2009 00:01:36 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/56d79d114ab3bad2129b6a9155cb5804#alexbarton</guid>
+      <link>http://www-cs-students.stanford.edu/~blynn/gitmagic/</link>
+      <dc:creator><![CDATA[alexbarton]]></dc:creator>
+      <comments>http://delicious.com/url/56d79d114ab3bad2129b6a9155cb5804</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/56d79d114ab3bad2129b6a9155cb5804</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/alexbarton">alexbarton's bookmarks</source>
+      <category domain="http://delicious.com/alexbarton/">documentation</category>
+      <category domain="http://delicious.com/alexbarton/">programming</category>
+      <category domain="http://delicious.com/alexbarton/">tutorial</category>
+      <category domain="http://delicious.com/alexbarton/">opensource</category>
+      <category domain="http://delicious.com/alexbarton/">git</category>
+      <category domain="http://delicious.com/alexbarton/">book</category>
+      <category domain="http://delicious.com/alexbarton/">development</category>
+      <category domain="http://delicious.com/alexbarton/">tips</category>
+      <category domain="http://delicious.com/alexbarton/">versioncontrol</category>
+      <category domain="http://delicious.com/alexbarton/">scm</category>
+    </item>
+    <item>
+      <title>Git Configuration — Arthur Koziel's Blog</title>
+      <pubDate>Thu, 22 Jan 2009 00:00:12 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/fd68cebf1efc8267755fffdf83d34a65#kd7lxl</guid>
+      <link>http://arthurkoziel.com/2008/05/02/git-configuration/</link>
+      <dc:creator><![CDATA[kd7lxl]]></dc:creator>
+      <comments>http://delicious.com/url/fd68cebf1efc8267755fffdf83d34a65</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/fd68cebf1efc8267755fffdf83d34a65</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/kd7lxl">kd7lxl's bookmarks</source>
+      <category domain="http://delicious.com/kd7lxl/">git</category>
+      <category domain="http://delicious.com/kd7lxl/">versioncontrol</category>
+      <category domain="http://delicious.com/kd7lxl/">osx</category>
+      <category domain="http://delicious.com/kd7lxl/">config</category>
+      <category domain="http://delicious.com/kd7lxl/">global</category>
+    </item>
+    <item>
+      <title>Setting up a new remote git repository</title>
+      <pubDate>Wed, 21 Jan 2009 23:59:09 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/92ef1415d7549b593203df464951ae85#chiggsy</guid>
+      <link>http://toolmantim.com/articles/setting_up_a_new_remote_git_repository</link>
+      <dc:creator><![CDATA[chiggsy]]></dc:creator>
+      <comments>http://delicious.com/url/92ef1415d7549b593203df464951ae85</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/92ef1415d7549b593203df464951ae85</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/chiggsy">chiggsy's bookmarks</source>
+      <category domain="http://delicious.com/chiggsy/">git</category>
+    </item>
+    <item>
+      <title>My Git Workflow</title>
+      <pubDate>Wed, 21 Jan 2009 23:55:20 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c#matre</guid>
+      <link>http://gweezlebur.com/2009/01/19/my-git-workflow.html</link>
+      <dc:creator><![CDATA[matre]]></dc:creator>
+      <comments>http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/cb33f47d0ba26e22de2df02f9baff34c</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/matre">matre's bookmarks</source>
+      <description>example git worklows</description>
+      <category domain="http://delicious.com/matre/">git</category>
+      <category domain="http://delicious.com/matre/">scm</category>
+    </item>
+    <item>
+      <title>A tour of git: the basics</title>
+      <pubDate>Wed, 21 Jan 2009 23:52:17 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/919a21279d131e6ec26957c557942c5a#alexbarton</guid>
+      <link>http://cworth.org/hgbook-git/tour/</link>
+      <dc:creator><![CDATA[alexbarton]]></dc:creator>
+      <comments>http://delicious.com/url/919a21279d131e6ec26957c557942c5a</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/919a21279d131e6ec26957c557942c5a</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/alexbarton">alexbarton's bookmarks</source>
+      <category domain="http://delicious.com/alexbarton/">documentation</category>
+      <category domain="http://delicious.com/alexbarton/">programming</category>
+      <category domain="http://delicious.com/alexbarton/">tutorial</category>
+      <category domain="http://delicious.com/alexbarton/">howto</category>
+      <category domain="http://delicious.com/alexbarton/">scm</category>
+      <category domain="http://delicious.com/alexbarton/">cvs</category>
+      <category domain="http://delicious.com/alexbarton/">git</category>
+      <category domain="http://delicious.com/alexbarton/">svn</category>
+    </item>
+    <item>
+      <title>My Git Workflow</title>
+      <pubDate>Wed, 21 Jan 2009 23:46:28 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c#bprater</guid>
+      <link>http://gweezlebur.com/2009/01/19/my-git-workflow.html</link>
+      <dc:creator><![CDATA[bprater]]></dc:creator>
+      <comments>http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/cb33f47d0ba26e22de2df02f9baff34c</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/bprater">bprater's bookmarks</source>
+      <category domain="http://delicious.com/bprater/">git</category>
+      <category domain="http://delicious.com/bprater/">workflow</category>
+    </item>
+    <item>
+      <title>Welcome to GitCasts</title>
+      <pubDate>Wed, 21 Jan 2009 23:32:42 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/b7851b24adcd2e875a142b31caee657f#burmjohn</guid>
+      <link>http://gitcasts.com/posts/page/2</link>
+      <dc:creator><![CDATA[burmjohn]]></dc:creator>
+      <comments>http://delicious.com/url/b7851b24adcd2e875a142b31caee657f</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/b7851b24adcd2e875a142b31caee657f</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/burmjohn">burmjohn's bookmarks</source>
+      <category domain="http://delicious.com/burmjohn/">rubyonrails</category>
+      <category domain="http://delicious.com/burmjohn/">ror</category>
+      <category domain="http://delicious.com/burmjohn/">git</category>
+    </item>
+    <item>
+      <title>Getting Started with Git and GitHub on Windows - Kyle Cordes</title>
+      <pubDate>Wed, 21 Jan 2009 23:30:57 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/ac9f92b9058ec6b3fd82ca266c94ffdc#mccambridge</guid>
+      <link>http://kylecordes.com/2008/04/30/git-windows-go/</link>
+      <dc:creator><![CDATA[mccambridge]]></dc:creator>
+      <comments>http://delicious.com/url/ac9f92b9058ec6b3fd82ca266c94ffdc</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/ac9f92b9058ec6b3fd82ca266c94ffdc</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/mccambridge">mccambridge's bookmarks</source>
+      <category domain="http://delicious.com/mccambridge/">git</category>
+      <category domain="http://delicious.com/mccambridge/">windows</category>
+      <category domain="http://delicious.com/mccambridge/">tutorial</category>
+    </item>
+    <item>
+      <title>git ready " daily tips for the noob to the guru</title>
+      <pubDate>Wed, 21 Jan 2009 23:29:56 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/035d57fa0de0e83753012ecd6762a179#burmjohn</guid>
+      <link>http://gitready.com/</link>
+      <dc:creator><![CDATA[burmjohn]]></dc:creator>
+      <comments>http://delicious.com/url/035d57fa0de0e83753012ecd6762a179</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/035d57fa0de0e83753012ecd6762a179</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/burmjohn">burmjohn's bookmarks</source>
+      <category domain="http://delicious.com/burmjohn/">rubyonrails</category>
+      <category domain="http://delicious.com/burmjohn/">ror</category>
+      <category domain="http://delicious.com/burmjohn/">git</category>
+    </item>
+    <item>
+      <title>entp hoth blog git track is where it's at</title>
+      <pubDate>Wed, 21 Jan 2009 23:26:59 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/fbc758e6a746f421d2356e688b1b8262#kennethlove666</guid>
+      <link>http://hoth.entp.com/2009/1/21/git-track-is-where-its-at</link>
+      <dc:creator><![CDATA[kennethlove666]]></dc:creator>
+      <comments>http://delicious.com/url/fbc758e6a746f421d2356e688b1b8262</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/fbc758e6a746f421d2356e688b1b8262</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/kennethlove666">kennethlove666's bookmarks</source>
+      <category domain="http://delicious.com/kennethlove666/">git</category>
+    </item>
+    <item>
+      <title>entp hoth blog git track is where it's at</title>
+      <pubDate>Wed, 21 Jan 2009 23:23:29 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/fbc758e6a746f421d2356e688b1b8262#myobie</guid>
+      <link>http://hoth.entp.com/2009/1/21/git-track-is-where-its-at</link>
+      <dc:creator><![CDATA[myobie]]></dc:creator>
+      <comments>http://delicious.com/url/fbc758e6a746f421d2356e688b1b8262</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/fbc758e6a746f421d2356e688b1b8262</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/myobie">myobie's bookmarks</source>
+      <description>Useful git aliases and such.</description>
+      <category domain="http://delicious.com/myobie/">git</category>
+    </item>
+    <item>
+      <title>entp hoth blog git track is where it's at</title>
+      <pubDate>Wed, 21 Jan 2009 23:20:15 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/fbc758e6a746f421d2356e688b1b8262#ag3ntorang3</guid>
+      <link>http://hoth.entp.com/2009/1/21/git-track-is-where-its-at</link>
+      <dc:creator><![CDATA[ag3ntorang3]]></dc:creator>
+      <comments>http://delicious.com/url/fbc758e6a746f421d2356e688b1b8262</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/fbc758e6a746f421d2356e688b1b8262</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/ag3ntorang3">ag3ntorang3's bookmarks</source>
+      <category domain="http://delicious.com/ag3ntorang3/">git</category>
+      <category domain="http://delicious.com/ag3ntorang3/">alias</category>
+    </item>
+    <item>
+      <title>git によるバージョン管理の練習 | バシャログ。</title>
+      <pubDate>Wed, 21 Jan 2009 23:14:14 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/a1a9ef307b3daa64db950858d007e7d4#2310</guid>
+      <link>http://c-brains.jp/blog/wsg/08/10/06-000841.php</link>
+      <dc:creator><![CDATA[2310]]></dc:creator>
+      <comments>http://delicious.com/url/a1a9ef307b3daa64db950858d007e7d4</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/a1a9ef307b3daa64db950858d007e7d4</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/2310">2310's bookmarks</source>
+      <category domain="http://delicious.com/2310/">git</category>
+    </item>
+    <item>
+      <title>SpeakMy.Name " Blog Archive " Action Guide to git submodules (with Rails flavor)</title>
+      <pubDate>Wed, 21 Jan 2009 23:13:15 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/74e89c09e4c666fb75c92b9648a3b673#dlabare</guid>
+      <link>http://speakmy.name/2009/01/action-guide-to-git-submodules-with-rails-flavor/</link>
+      <dc:creator><![CDATA[dlabare]]></dc:creator>
+      <comments>http://delicious.com/url/74e89c09e4c666fb75c92b9648a3b673</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/74e89c09e4c666fb75c92b9648a3b673</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/dlabare">dlabare's bookmarks</source>
+      <category domain="http://delicious.com/dlabare/">git</category>
+      <category domain="http://delicious.com/dlabare/">tutorial</category>
+      <category domain="http://delicious.com/dlabare/">submodule</category>
+      <category domain="http://delicious.com/dlabare/">submodules</category>
+    </item>
+    <item>
+      <title>はじめてのgit - IDEA*IDEA ~ 百式管理人のライフハックブログ ~</title>
+      <pubDate>Wed, 21 Jan 2009 23:12:24 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/640d78fc68ba377ff6897de4c2348a0d#2310</guid>
+      <link>http://www.ideaxidea.com/archives/2008/04/git.html</link>
+      <dc:creator><![CDATA[2310]]></dc:creator>
+      <comments>http://delicious.com/url/640d78fc68ba377ff6897de4c2348a0d</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/640d78fc68ba377ff6897de4c2348a0d</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/2310">2310's bookmarks</source>
+      <category domain="http://delicious.com/2310/">git</category>
+    </item>
+    <item>
+      <title>GIT Prompt - there is a lot more than a branch-name</title>
+      <pubDate>Wed, 21 Jan 2009 23:09:50 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/5d47dfa0e8fe6af153c1a51b921a0202#bjornarild</guid>
+      <link>http://volnitsky.com/project/git-prompt/</link>
+      <dc:creator><![CDATA[bjornarild]]></dc:creator>
+      <comments>http://delicious.com/url/5d47dfa0e8fe6af153c1a51b921a0202</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/5d47dfa0e8fe6af153c1a51b921a0202</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/bjornarild">bjornarild's bookmarks</source>
+      <category domain="http://delicious.com/bjornarild/">git</category>
+    </item>
+    <item>
+      <title>Git Textmate Bundle - Gitorious</title>
+      <pubDate>Wed, 21 Jan 2009 23:05:44 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/22eccce9fb65904b5c5f88cb4b08bedd#marauder37</guid>
+      <link>http://gitorious.org/projects/git-tmbundle</link>
+      <dc:creator><![CDATA[marauder37]]></dc:creator>
+      <comments>http://delicious.com/url/22eccce9fb65904b5c5f88cb4b08bedd</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/22eccce9fb65904b5c5f88cb4b08bedd</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/marauder37">marauder37's bookmarks</source>
+      <category domain="http://delicious.com/marauder37/">git</category>
+      <category domain="http://delicious.com/marauder37/">plugin</category>
+      <category domain="http://delicious.com/marauder37/">textmate</category>
+    </item>
+    <item>
+      <title>entp hoth blog git track is where it's at</title>
+      <pubDate>Wed, 21 Jan 2009 23:05:39 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/fbc758e6a746f421d2356e688b1b8262#larrywright</guid>
+      <link>http://hoth.entp.com/2009/1/21/git-track-is-where-its-at</link>
+      <dc:creator><![CDATA[larrywright]]></dc:creator>
+      <comments>http://delicious.com/url/fbc758e6a746f421d2356e688b1b8262</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/fbc758e6a746f421d2356e688b1b8262</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/larrywright">larrywright's bookmarks</source>
+      <category domain="http://delicious.com/larrywright/">git</category>
+    </item>
+    <item>
+      <title>Git vs. Mercurial: Please Relax</title>
+      <pubDate>Wed, 21 Jan 2009 22:55:59 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/2dbdfe82d212d5020e0a19e8d33c8fd5#thomd</guid>
+      <link>http://importantshock.wordpress.com/2008/08/07/git-vs-mercurial/</link>
+      <dc:creator><![CDATA[thomd]]></dc:creator>
+      <comments>http://delicious.com/url/2dbdfe82d212d5020e0a19e8d33c8fd5</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/2dbdfe82d212d5020e0a19e8d33c8fd5</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/thomd">thomd's bookmarks</source>
+      <category domain="http://delicious.com/thomd/">programming</category>
+      <category domain="http://delicious.com/thomd/">dvcs</category>
+      <category domain="http://delicious.com/thomd/">git</category>
+      <category domain="http://delicious.com/thomd/">mercurial</category>
+      <category domain="http://delicious.com/thomd/">comparison</category>
+    </item>
+    <item>
+      <title>Tv's cobweb: Git for Computer Scientists</title>
+      <pubDate>Wed, 21 Jan 2009 22:55:08 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/9e41168d5414bf2f831d010bd654b20f#jonnytran</guid>
+      <link>http://eagain.net/articles/git-for-computer-scientists/</link>
+      <dc:creator><![CDATA[jonnytran]]></dc:creator>
+      <comments>http://delicious.com/url/9e41168d5414bf2f831d010bd654b20f</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/9e41168d5414bf2f831d010bd654b20f</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/jonnytran">jonnytran's bookmarks</source>
+      <category domain="http://delicious.com/jonnytran/">algorithms</category>
+      <category domain="http://delicious.com/jonnytran/">git</category>
+    </item>
+    <item>
+      <title>My Git Workflow</title>
+      <pubDate>Wed, 21 Jan 2009 22:54:58 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c#fernholz</guid>
+      <link>http://gweezlebur.com/2009/01/19/my-git-workflow.html</link>
+      <dc:creator><![CDATA[fernholz]]></dc:creator>
+      <comments>http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/cb33f47d0ba26e22de2df02f9baff34c</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/fernholz">fernholz's bookmarks</source>
+      <category domain="http://delicious.com/fernholz/">git</category>
+    </item>
+    <item>
+      <title>My Git Workflow</title>
+      <pubDate>Wed, 21 Jan 2009 22:54:36 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c#jonnytran</guid>
+      <link>http://gweezlebur.com/2009/01/19/my-git-workflow.html</link>
+      <dc:creator><![CDATA[jonnytran]]></dc:creator>
+      <comments>http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/cb33f47d0ba26e22de2df02f9baff34c</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/jonnytran">jonnytran's bookmarks</source>
+      <category domain="http://delicious.com/jonnytran/">git</category>
+      <category domain="http://delicious.com/jonnytran/">tips</category>
+      <category domain="http://delicious.com/jonnytran/">workflow</category>
+    </item>
+    <item>
+      <title>The Best Environment For Rails on Windows</title>
+      <pubDate>Wed, 21 Jan 2009 22:52:49 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/371d2ded548a53f6c14bb5dbc08c8cc5#hellfire64</guid>
+      <link>http://akitaonrails.com/2009/1/13/the-best-environment-for-rails-on-windows</link>
+      <dc:creator><![CDATA[hellfire64]]></dc:creator>
+      <comments>http://delicious.com/url/371d2ded548a53f6c14bb5dbc08c8cc5</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/371d2ded548a53f6c14bb5dbc08c8cc5</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/hellfire64">hellfire64's bookmarks</source>
+      <description>Akita&amp;#039;s article on setting up a modern environment for Rails development on Windows (including GIt, rmagick etc).</description>
+      <category domain="http://delicious.com/hellfire64/">development</category>
+      <category domain="http://delicious.com/hellfire64/">rubyonrails</category>
+      <category domain="http://delicious.com/hellfire64/">windows</category>
+      <category domain="http://delicious.com/hellfire64/">git</category>
+      <category domain="http://delicious.com/hellfire64/">howto</category>
+      <category domain="http://delicious.com/hellfire64/">install</category>
+    </item>
+    <item>
+      <title>Git - Fast Version Control System</title>
+      <pubDate>Wed, 21 Jan 2009 22:51:31 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/6a39c5566c81cc96bb39199ca0470695#cehbrecht</guid>
+      <link>http://git-scm.com/</link>
+      <dc:creator><![CDATA[cehbrecht]]></dc:creator>
+      <comments>http://delicious.com/url/6a39c5566c81cc96bb39199ca0470695</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/6a39c5566c81cc96bb39199ca0470695</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/cehbrecht">cehbrecht's bookmarks</source>
+      <category domain="http://delicious.com/cehbrecht/">version-control</category>
+      <category domain="http://delicious.com/cehbrecht/">git</category>
+    </item>
+    <item>
+      <title>My Git Workflow</title>
+      <pubDate>Wed, 21 Jan 2009 22:47:55 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c#jcricket</guid>
+      <link>http://gweezlebur.com/2009/01/19/my-git-workflow.html</link>
+      <dc:creator><![CDATA[jcricket]]></dc:creator>
+      <comments>http://delicious.com/url/cb33f47d0ba26e22de2df02f9baff34c</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/cb33f47d0ba26e22de2df02f9baff34c</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/jcricket">jcricket's bookmarks</source>
+      <category domain="http://delicious.com/jcricket/">git</category>
+      <category domain="http://delicious.com/jcricket/">tutorial</category>
+      <category domain="http://delicious.com/jcricket/">howto</category>
+      <category domain="http://delicious.com/jcricket/">programming</category>
+      <category domain="http://delicious.com/jcricket/">workflow</category>
+      <category domain="http://delicious.com/jcricket/">versioncontrol</category>
+    </item>
+    <item>
+      <title>Tv's cobweb: Git for Computer Scientists</title>
+      <pubDate>Wed, 21 Jan 2009 22:47:44 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/9e41168d5414bf2f831d010bd654b20f#jpcamara</guid>
+      <link>http://eagain.net/articles/git-for-computer-scientists/</link>
+      <dc:creator><![CDATA[jpcamara]]></dc:creator>
+      <comments>http://delicious.com/url/9e41168d5414bf2f831d010bd654b20f</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/9e41168d5414bf2f831d010bd654b20f</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/jpcamara">jpcamara's bookmarks</source>
+      <category domain="http://delicious.com/jpcamara/">versioning</category>
+      <category domain="http://delicious.com/jpcamara/">computerscience</category>
+      <category domain="http://delicious.com/jpcamara/">git</category>
+    </item>
+    <item>
+      <title>An Illustrated Guide to Git on Windows</title>
+      <pubDate>Wed, 21 Jan 2009 22:42:32 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/dc4a7b57ee94018ba869c57fa0532c83#reech0373</guid>
+      <link>http://nathanj.github.com/gitguide/committing.html</link>
+      <dc:creator><![CDATA[reech0373]]></dc:creator>
+      <comments>http://delicious.com/url/dc4a7b57ee94018ba869c57fa0532c83</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/dc4a7b57ee94018ba869c57fa0532c83</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/reech0373">reech0373's bookmarks</source>
+      <description>ws</description>
+      <category domain="http://delicious.com/reech0373/">git</category>
+    </item>
+    <item>
+      <title>Git - SVN Crash Course</title>
+      <pubDate>Wed, 21 Jan 2009 22:42:17 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/a4c91e85e9cfddebf540b15d11dac1d6#reech0373</guid>
+      <link>http://git.or.cz/course/svn.html</link>
+      <dc:creator><![CDATA[reech0373]]></dc:creator>
+      <comments>http://delicious.com/url/a4c91e85e9cfddebf540b15d11dac1d6</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/a4c91e85e9cfddebf540b15d11dac1d6</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/reech0373">reech0373's bookmarks</source>
+      <category domain="http://delicious.com/reech0373/">versioning</category>
+      <category domain="http://delicious.com/reech0373/">git</category>
+    </item>
+    <item>
+      <title>Using git submodules to track plugins | Notes from a Messy Desk</title>
+      <pubDate>Wed, 21 Jan 2009 22:37:28 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/bab2c080d602bdf0ad88d94f7d9961b1#dimarzio</guid>
+      <link>http://woss.name/2008/04/09/using-git-submodules-to-track-vendorrails/</link>
+      <dc:creator><![CDATA[dimarzio]]></dc:creator>
+      <comments>http://delicious.com/url/bab2c080d602bdf0ad88d94f7d9961b1</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/bab2c080d602bdf0ad88d94f7d9961b1</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/dimarzio">dimarzio's bookmarks</source>
+      <description>Git submodules</description>
+      <category domain="http://delicious.com/dimarzio/">git</category>
+      <category domain="http://delicious.com/dimarzio/">dvcs</category>
+    </item>
+    <item>
+      <title>free-bees.co.uk - Introduction to using git locally</title>
+      <pubDate>Wed, 21 Jan 2009 22:37:23 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/0d00ef73c59c80cba6a3801beddc9cfc#matrixhasu</guid>
+      <link>http://www.free-bees.co.uk/articles/using_git_locally/print/</link>
+      <dc:creator><![CDATA[matrixhasu]]></dc:creator>
+      <comments>http://delicious.com/url/0d00ef73c59c80cba6a3801beddc9cfc</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/0d00ef73c59c80cba6a3801beddc9cfc</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/matrixhasu">matrixhasu's bookmarks</source>
+      <category domain="http://delicious.com/matrixhasu/">vcs</category>
+      <category domain="http://delicious.com/matrixhasu/">git</category>
+      <category domain="http://delicious.com/matrixhasu/">dvcs</category>
+    </item>
+    <item>
+      <title>GitTogether 2008 - GitHub</title>
+      <pubDate>Wed, 21 Jan 2009 22:35:07 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/21c27d5da7c7952dc8f8ccd00a60578b#ceez</guid>
+      <link>http://github.com/blog/196-gittogether-2008</link>
+      <dc:creator><![CDATA[ceez]]></dc:creator>
+      <comments>http://delicious.com/url/21c27d5da7c7952dc8f8ccd00a60578b</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/21c27d5da7c7952dc8f8ccd00a60578b</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/ceez">ceez's bookmarks</source>
+      <category domain="http://delicious.com/ceez/">git</category>
+      <category domain="http://delicious.com/ceez/">github</category>
+      <category domain="http://delicious.com/ceez/">conference</category>
+      <category domain="http://delicious.com/ceez/">GitTogether</category>
+    </item>
+    <item>
+      <title>An Illustrated Guide to Git on Windows</title>
+      <pubDate>Wed, 21 Jan 2009 22:35:07 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/7837be08514188d9f25a817f559e58e9#ceez</guid>
+      <link>http://nathanj.github.com/gitguide/</link>
+      <dc:creator><![CDATA[ceez]]></dc:creator>
+      <comments>http://delicious.com/url/7837be08514188d9f25a817f559e58e9</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/7837be08514188d9f25a817f559e58e9</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/ceez">ceez's bookmarks</source>
+      <category domain="http://delicious.com/ceez/">tutorial</category>
+      <category domain="http://delicious.com/ceez/">howto</category>
+      <category domain="http://delicious.com/ceez/">windows</category>
+      <category domain="http://delicious.com/ceez/">Microsoft</category>
+      <category domain="http://delicious.com/ceez/">documentation</category>
+      <category domain="http://delicious.com/ceez/">git</category>
+      <category domain="http://delicious.com/ceez/">versioncontrol</category>
+    </item>
+  </channel>
+</rss>
