@@ -32,14 +32,16 @@ deDupItems' :: [Item] -> [Item] -> IdCountMap -> [Item]
 deDupItems' (item:items) keptItems seenMap =
     case delId of
       Nothing -> deDupItems' items keptItems seenMap -- We didn't get an id, so drop it and move on
-      Just anId -> if Map.member anId seenMap
-                   then
-                        -- Already seen, ignore it
-                       deDupItems' items keptItems seenMap
-                   else
-                       -- Haven't seen it
-                       deDupItems' items (keptItems ++ [item]) (Map.insert anId defaultValue seenMap)
-                       
+      Just anId ->
+          if count > 0
+          then
+              -- Already seen, ignore it
+              deDupItems' items keptItems (Map.insert anId (count + 1) seenMap)              
+          else
+              -- Haven't seen it
+              deDupItems' items (keptItems ++ [item]) (Map.insert anId (count + 1) seenMap)
+          where
+            count = Map.findWithDefault defaultValue anId seenMap
     where
       delId = getDeliciousUrlId item
 
