@@ -1,5 +1,8 @@
 module Main where
 
+-- Eventually, I probably want to try to use bytestring-trie's
+import qualified Data.Map as Map 
+
 import Text.Feed.Constructor
 import Text.Feed.Export
 import Text.Feed.Import
@@ -12,12 +15,37 @@ main :: IO ()
 main = do
   feed <- parseFeedFromFile filename
   items <- return $ feedItems feed
-  items <- return $ take 1 items
+  items <- return $ deDupItems items
   feed <- return $ withFeedItems items feed
   putStrLn $ ppTopElement $ xmlFeed feed
     where
       filename = "del.rss"
 
+type IdCountMap = Map.Map String Integer
+
+defaultValue = 0 :: Integer
+               
+deDupItems :: [Item] -> [Item]
+deDupItems items = deDupItems' items [] Map.empty
+
+deDupItems' :: [Item] -> [Item] -> IdCountMap -> [Item]
+deDupItems' (item:items) keptItems seenMap =
+    case delId of
+      Nothing -> deDupItems' items keptItems seenMap -- We didn't get an id, so drop it and move on
+      Just anId -> if Map.member anId seenMap
+                   then
+                        -- Already seen, ignore it
+                       deDupItems' items keptItems seenMap
+                   else
+                       -- Haven't seen it
+                       deDupItems' items (keptItems ++ [item]) (Map.insert anId defaultValue seenMap)
+                       
+    where
+      delId = getDeliciousUrlId item
+
+deDupItems' [] keptItems seenMap = keptItems
+    
+          
 getDeliciousUrlId :: Item -> Maybe String
 getDeliciousUrlId (RSSItem item) =
     case comments of
