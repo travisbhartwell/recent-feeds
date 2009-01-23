@@ -1,8 +1,10 @@
 module Main where
 
+import Data.Binary
 -- Eventually, I probably want to try to use bytestring-trie's
 import qualified Data.Map as Map 
 
+import System.Directory
 import Text.Feed.Constructor
 import Text.Feed.Export
 import Text.Feed.Import
@@ -14,7 +16,7 @@ import Text.XML.Light
 main :: IO ()
 main = do
   feed <- parseFeedFromFile "del.rss"
-  let items = deDupItems $ feedItems feed
+  items <- deDupWithSerializedMap $ feedItems feed
   let feed = withFeedItems items feed
   putStrLn $ ppTopElement $ xmlFeed feed
 
@@ -22,9 +24,23 @@ type IdCountMap = Map.Map String Integer
 
 seenMapFile = "seenMap.ser"
 defaultValue = 0 :: Integer
-               
-deDupItems :: [Item] -> [Item]
-deDupItems items = deDupItems' items [] Map.empty
+
+deDupWithSerializedMap :: [Item] -> IO [Item]
+deDupWithSerializedMap items = 
+    do
+      hasFile <- doesFileExist seenMapFile
+      seenMap <- if hasFile
+                 then
+                     decodeFile seenMapFile
+                 else
+                     return Map.empty
+      let items = deDupItems items seenMap
+      encodeFile seenMapFile seenMap
+      return items
+
+                           
+deDupItems :: [Item] -> IdCountMap -> [Item]
+deDupItems items seenMap = deDupItems' items [] seenMap
 
 deDupItems' :: [Item] -> [Item] -> IdCountMap -> [Item]
 deDupItems' (item:items) keptItems seenMap =
