@@ -14,12 +14,13 @@ import Text.XML.Light
 main :: IO ()
 main = do
   feed <- parseFeedFromFile "del.rss"
-  items <- return $ deDupItems $ feedItems feed
-  feed <- return $ withFeedItems items feed
+  let items = deDupItems $ feedItems feed
+  let feed = withFeedItems items feed
   putStrLn $ ppTopElement $ xmlFeed feed
 
 type IdCountMap = Map.Map String Integer
 
+seenMapFile = "seenMap.ser"
 defaultValue = 0 :: Integer
                
 deDupItems :: [Item] -> [Item]
@@ -34,7 +35,7 @@ deDupItems' (item:items) keptItems seenMap =
             count = Map.findWithDefault defaultValue anId seenMap
             itemsToKeep = if count > 0 then keptItems else keptItems ++ [item] 
 
-deDupItems' [] keptItems seenMap = keptItems
+deDupItems' [] keptItems _ =  keptItems
     
           
 getDeliciousUrlId :: Item -> Maybe String
@@ -48,3 +49,7 @@ getDelIdFromUrl comments = drop baseUrlLen comments
     where
       baseUrlLen = length baseUrl
       baseUrl = "http://delicious.com/url/"
+
+-- Local Variables:
+-- compile-command: "ghc --make -o recent-feed recent-feed.hs"
+-- End:
