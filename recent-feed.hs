@@ -13,13 +13,10 @@ import Text.XML.Light
     
 main :: IO ()
 main = do
-  feed <- parseFeedFromFile filename
+  feed <- parseFeedFromFile "del.rss"
   items <- return $ deDupItems $ feedItems feed
   feed <- return $ withFeedItems items feed
   putStrLn $ ppTopElement $ xmlFeed feed
-    where
-      filename = "del.rss"
-      
 
 type IdCountMap = Map.Map String Integer
 
@@ -30,31 +27,21 @@ deDupItems items = deDupItems' items [] Map.empty
 
 deDupItems' :: [Item] -> [Item] -> IdCountMap -> [Item]
 deDupItems' (item:items) keptItems seenMap =
-    case delId of
+    case getDeliciousUrlId item of
       Nothing -> deDupItems' items keptItems seenMap -- We didn't get an id, so drop it and move on
-      Just anId ->
-          if count > 0
-          then
-              -- Already seen, ignore it
-              deDupItems' items keptItems (Map.insert anId (count + 1) seenMap)              
-          else
-              -- Haven't seen it
-              deDupItems' items (keptItems ++ [item]) (Map.insert anId (count + 1) seenMap)
+      Just anId -> deDupItems' items itemsToKeep (Map.insert anId (count + 1) seenMap)
           where
             count = Map.findWithDefault defaultValue anId seenMap
-    where
-      delId = getDeliciousUrlId item
+            itemsToKeep = if count > 0 then keptItems else keptItems ++ [item] 
 
 deDupItems' [] keptItems seenMap = keptItems
     
           
 getDeliciousUrlId :: Item -> Maybe String
 getDeliciousUrlId (RSSItem item) =
-    case comments of
+    case rssItemComments item of
       Nothing -> Nothing
       Just value -> Just $ getDelIdFromUrl value
-    where
-      comments = rssItemComments item
 
 getDelIdFromUrl :: String -> String
 getDelIdFromUrl comments = drop baseUrlLen comments
