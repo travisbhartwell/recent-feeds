@@ -14,12 +14,12 @@ import Text.XML.Light
 main :: IO ()
 main = do
   feed <- parseFeedFromFile filename
-  items <- return $ feedItems feed
-  items <- return $ deDupItems items
+  items <- return $ deDupItems $ feedItems feed
   feed <- return $ withFeedItems items feed
   putStrLn $ ppTopElement $ xmlFeed feed
     where
       filename = "del.rss"
+      
 
 type IdCountMap = Map.Map String Integer
 
