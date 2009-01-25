@@ -55,10 +55,7 @@ deDupItems' [] keptItems _ =  keptItems
     
           
 getDeliciousUrlId :: Item -> Maybe String
-getDeliciousUrlId (RSSItem item) =
-    case rssItemComments item of
-      Nothing -> Nothing
-      Just value -> Just $ getDelIdFromUrl value
+getDeliciousUrlId (RSSItem item) = getDelIdFromUrl `fmap` rssItemComments item
 
 getDelIdFromUrl :: String -> String
 getDelIdFromUrl comments = drop baseUrlLen comments
