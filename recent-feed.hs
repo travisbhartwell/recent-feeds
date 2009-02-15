@@ -49,9 +49,9 @@ deDupItems' (item:items) keptItems seenMap =
       Just anId -> deDupItems' items itemsToKeep (Map.insert anId (count + 1) seenMap)
           where
             count = Map.findWithDefault defaultValue anId seenMap
-            itemsToKeep = traceShow count $ if count > 0 then keptItems else keptItems ++ [item]
+            itemsToKeep = if count > 0 then keptItems else keptItems ++ [item]
 
-deDupItems' [] keptItems seenMap =  keptItems
+deDupItems' [] keptItems _ =  keptItems
 
 
 getDeliciousUrlId :: Item -> Maybe String
