@@ -16,8 +16,8 @@ main :: IO ()
 main = do
   feed <- parseFeedFromFile "del.rss"
   items <- deDupWithSerializedMap $ feedItems feed
-  let feed = withFeedItems items feed  
-  putStrLn $ ppTopElement $ xmlFeed feed
+  let feed' = withFeedItems items feed  
+  putStrLn $ ppTopElement $ xmlFeed feed'
 
 type IdCountMap = Map.Map String Integer
 
@@ -28,21 +28,20 @@ defaultValue = 0 :: Integer
 deDupWithSerializedMap :: [Item] -> IO [Item]
 deDupWithSerializedMap items =
     do
-      -- hasFile <- doesFileExist seenMapFile
-      -- seenMap <- if hasFile
-      --            then
-      --                decodeFile seenMapFile
-      --            else
-      --                return Map.empty
-      let seenMap = Map.empty
-      let items = deDupItems items seenMap
---      encodeFle seenMapFile seenMap
-      return items
+      hasFile <- doesFileExist seenMapFile
+      seenMap <- if hasFile
+                 then
+                     decodeFile seenMapFile
+                 else
+                     return Map.empty
+      let (items', seenMap') = deDupItems items seenMap
+      encodeFile seenMapFile seenMap'
+      return items'
 
-deDupItems :: [Item] -> IdCountMap -> [Item]
+deDupItems :: [Item] -> IdCountMap -> ([Item], IdCountMap)
 deDupItems items = deDupItems' items []
 
-deDupItems' :: [Item] -> [Item] -> IdCountMap -> [Item]
+deDupItems' :: [Item] -> [Item] -> IdCountMap -> ([Item], IdCountMap)
 deDupItems' (item:items) keptItems seenMap =
     case getDeliciousUrlId item of
       Nothing -> deDupItems' items keptItems seenMap -- We didn't get an id, so drop it and move on
@@ -51,7 +50,7 @@ deDupItems' (item:items) keptItems seenMap =
             count = Map.findWithDefault defaultValue anId seenMap
             itemsToKeep = if count > 0 then keptItems else keptItems ++ [item]
 
-deDupItems' [] keptItems _ =  keptItems
+deDupItems' [] keptItems seenMap =  (keptItems, seenMap)
 
 
 getDeliciousUrlId :: Item -> Maybe String
