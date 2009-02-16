@@ -29,7 +29,7 @@ deDupWithSerializedMap :: [Item] -> IO [Item]
 deDupWithSerializedMap items =
     do
       hasFile <- doesFileExist seenMapFile
-      seenMap <- if hasFile
+      !seenMap <- if hasFile
                  then
                      decodeFile seenMapFile
                  else
@@ -63,5 +63,5 @@ getDelIdFromUrl comments = drop baseUrlLen comments
       baseUrl = "http://delicious.com/url/"
 
 -- Local Variables:
--- compile-command: "ghc --make -o recent-feed recent-feed.hs"
+-- compile-command: "ghc --make -XBangPatterns -o recent-feed recent-feed.hs"
 -- End:
