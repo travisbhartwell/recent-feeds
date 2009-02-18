@@ -1,3 +1,4 @@
+{-# LANGUAGE BangPatterns #-}
 module Main where
 
 import Data.Binary
@@ -21,9 +22,12 @@ main = do
 
 type IdCountMap = Map.Map String Integer
 
-seenMapFile = "seenMap.ser"
+-- TODO: Need to pick a standard place for this
+seenMapFile :: FilePath
+seenMapFile = "seenMap.ser" 
 
-defaultValue = 0 :: Integer
+defaultValue  :: Integer
+defaultValue = 0 
 
 deDupWithSerializedMap :: [Item] -> IO [Item]
 deDupWithSerializedMap items =
@@ -55,6 +59,7 @@ deDupItems' [] keptItems seenMap =  (keptItems, seenMap)
 
 getDeliciousUrlId :: Item -> Maybe String
 getDeliciousUrlId (RSSItem item) = getDelIdFromUrl `fmap` rssItemComments item
+getDeliciousUrlId _ = Nothing
 
 getDelIdFromUrl :: String -> String
 getDelIdFromUrl comments = drop baseUrlLen comments
@@ -63,5 +68,5 @@ getDelIdFromUrl comments = drop baseUrlLen comments
       baseUrl = "http://delicious.com/url/"
 
 -- Local Variables:
--- compile-command: "ghc --make -XBangPatterns -o recent-feed recent-feed.hs"
+-- compile-command: "ghc --make -Wall -o recent-feed recent-feed.hs"
 -- End:
